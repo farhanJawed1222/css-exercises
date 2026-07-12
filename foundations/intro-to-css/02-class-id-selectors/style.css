@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odd{
+    background-color:rgba(246, 117, 139, 0.464);
+    font-family: Verdana, DejaVu sans , sans-serif;
+}
+
+#jam{
+    color: hsl(240, 96%, 41%);
+    font-size: 36px;
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
+#fag{
+    background-color: #90ee90;
+    font-weight:bold;
+}
